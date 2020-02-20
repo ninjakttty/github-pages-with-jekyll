@@ -10,7 +10,3 @@ github_username: ninjakttty # DO NOT include the @ character, or else the build 
 
 show_excerpts: true # set to false to remove excerpts on the homepage
 theme: minima
-# theme: jekyll-theme-modernist
-# theme: jekyll-theme-minimal
-
-# theme: jekyll-theme-slate
